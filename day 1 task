@@ -1,0 +1,10 @@
+Difference between HTTP1.1 and HTTP2:
+
+HTTP1.1:
+1.Head-of-line blocking.
+2.Redundancy in request header.
+
+HTTP2:
+1.No more Head-of-line blocking.
+2.Allows to compress HTTP headers.
+3.PUSH is an important feature in HTTP2.
